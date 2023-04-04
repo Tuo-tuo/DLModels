@@ -8,6 +8,7 @@
 + Upload CFNeXt code to CFNeXt/CFNeXt.py.
 + Reference Paper: [A ConvNet for the 2020s](https://arxiv.org/pdf/2201.03545.pdf)
 
+
 + Upload ConvNeXt_Seg code to ConvNeXts/ConvNeXt_Seg.py.
 + Reference Paper: [A ConvNet for the 2020s](https://arxiv.org/pdf/2201.03545.pdf)
 + Reference Code: https://github.com/facebookresearch/ConvNeXt
