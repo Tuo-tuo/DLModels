@@ -2,5 +2,8 @@
 ## 2023 03 03
 + Upload CFNet code to CFNet/CFNet.py.
 
-+ Paper: [CFNet: Cascade Fusion Network for Dense Prediction](https://arxiv.org/abs/2302.06052)
++ Reference Paper: [CFNet: Cascade Fusion Network for Dense Prediction](https://arxiv.org/abs/2302.06052)
 
+## 2023 04 04
++ Upload CFNeXt code to CFNeXt/CFNeXt.py.
++ Reference Paper: [A ConvNet for the 2020s](https://arxiv.org/pdf/2201.03545.pdf)
